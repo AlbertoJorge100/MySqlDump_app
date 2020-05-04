@@ -1,0 +1,13 @@
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.Form1.resources
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.GUI.MySql.resources
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.GUI.Perfil.resources
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\bin\Debug\Conexiones.dll
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\bin\Debug\Conexiones.pdb
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.pdb

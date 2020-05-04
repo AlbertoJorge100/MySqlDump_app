@@ -1,0 +1,5 @@
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\Conexiones\obj\Debug\Conexiones.pdb
+C:\Users\Alberto\Desktop\ALBERTO\CUARTO AÑO\DESARROLLO DE SOFTWARE II\SEGUNDO PARCIAL\SegundoParcial\Conexiones\obj\Debug\Conexiones.csprojResolveAssemblyReference.cache

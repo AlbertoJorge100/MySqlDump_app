@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Perfiles>
+    <Id>01</Id>
+    <Perfil>Perfil 01</Perfil>
+    <Servidor>LocalHost</Servidor>
+    <BaseDatos>Northwind</BaseDatos>
+    <Usuario>root</Usuario>
+    <Contrasena>jorge_perez100</Contrasena>
+    <Puerto>3380</Puerto>
+  </Perfiles>
+  <Perfiles>
+    <Id>02</Id>
+    <Perfil>Facturacion </Perfil>
+    <Servidor>LocalHost</Servidor>
+    <BaseDatos>sistemafacturaciondb</BaseDatos>
+    <Usuario>root</Usuario>
+    <Contrasena>jorge_perez100</Contrasena>
+    <Puerto>3306</Puerto>
+  </Perfiles>
+  <Perfiles>
+    <Id>03</Id>
+    <Perfil>Carrito de compras</Perfil>
+    <Servidor>LocalHost</Servidor>
+    <BaseDatos>CarritocomprasDB</BaseDatos>
+    <Usuario>Root</Usuario>
+    <Contrasena>jorge_perez100</Contrasena>
+    <Puerto>3306</Puerto>
+  </Perfiles>
+  <Perfiles>
+    <Id>04</Id>
+    <Perfil>Admin</Perfil>
+    <Servidor>LocalHost</Servidor>
+    <BaseDatos>DB02</BaseDatos>
+    <Usuario>Roofft</Usuario>
+    <Contrasena>pereznolascodd</Contrasena>
+    <Puerto>3306</Puerto>
+  </Perfiles>
+  <Perfiles>
+    <Id>05</Id>
+    <Perfil>SakilaDB</Perfil>
+    <Servidor>localhost</Servidor>
+    <BaseDatos>sakila</BaseDatos>
+    <Usuario>root</Usuario>
+    <Contrasena>jorge_perez100</Contrasena>
+    <Puerto>3306</Puerto>
+  </Perfiles>
+</DocumentElement>
